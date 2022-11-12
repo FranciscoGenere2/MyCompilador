@@ -1,8 +1,5 @@
 <html>
 <head>
-<title>
-Pequeño compilador
-</title>
 </head>
 <body>
 <h1>Pequeno compilador</h1>
